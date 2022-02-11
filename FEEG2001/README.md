@@ -1,5 +1,6 @@
 # FEEG2001 Systems Design and Computing  
 
+
 ## Directory  
 
 ### `concept1.STL` ⚠  
@@ -8,11 +9,12 @@
 ### `concept2.STL` ⚠  
 'H'-configuration, cuboid body, four landing legs.  
 
+### `gimbal.STL` ✔  
+Three servos (180°) at each axis with blades, servo housing, camera, bolts and nuts.  
+
 ### `servo.STL` ✔  
 Just a simplified model of a servo.  
 
-### `gimbal.STL` ✔  
-Three servos (180°) at each axis with blades, servo housing, camera, bolts and nuts.  
 
 ## Labels  
 
