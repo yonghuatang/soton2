@@ -11,6 +11,9 @@
 ### `servo.STL` ✔  
 Just a simplified model of a servo.  
 
+### `gimbal.STL` ✔  
+Three servos (180°) at each axis with blades, servo housing, camera, bolts and nuts.  
+
 ## Labels  
 
 > ✔ &ensp; ***`concept completed/ready`***  
