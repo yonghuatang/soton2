@@ -1,7 +1,18 @@
-# FEEG2001 Systems Design and Computing
+# FEEG2001 Systems Design and Computing  
 
-### `concept1.STL`
+## Directory  
+
+### `concept1.STL` ✔  
 'X'-configuration, hexagonal arm extrude cut, hexagonal body, three-axis gimbal camera, three landing legs.
 
-### `concept2.STL`
-'H'-configuration, cuboid body, four landing legs.
+### `concept2.STL` ✔  
+'H'-configuration, cuboid body, four landing legs.  
+
+### `servo.STL` ✔  
+Just a simplified model of a servo.  
+
+## Labels  
+
+> ✔ &ensp; ***`concept completed/ready`***  
+> ⚠ &ensp; ***`concept needs improvement`***  
+> ❌ &ensp; ***`concept rejected/obsolete`***   
